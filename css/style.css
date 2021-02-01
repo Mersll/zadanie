@@ -1,0 +1,14 @@
+body {
+    background: #7A93AC;
+    color: #171A21;
+    font-family: "Times New Roman", Georgia, Garamond, serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    width: 100%;
+    height: fit-content;
+}
+h1 {
+    color: darkolivegreen;
+    font-size: 60px;
+}
