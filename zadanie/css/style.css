@@ -1,0 +1,100 @@
+body {
+    background: #e8eddf;
+    color: black;
+    font-family: "Times New Roman", Georgia, Garamond, serif;
+    font-size: 20px;
+    line-height: 1.5;
+    width: 100%;
+    height: fit-content;
+
+}
+h1 a:link, h1 a:visited {
+    color: #000000;
+}
+h1, h2 {
+    background: #e8eddf;
+    color: black;
+    width: auto;
+    margin-bottom: 0px;
+}
+
+h3 {
+    background: #e8eddf;
+    color: black;
+    width: auto;
+    margin-bottom: 1px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+p {
+    background: #e8eddf;
+    color: black;
+    width: auto;
+    margin-bottom: 2px;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+b {
+    color: green;
+}
+
+div {
+    background: #e8eddf;
+    background-clip: content-box;
+    margin-top: 2px;
+}
+footer {
+    color: #cacfcf;
+    width: auto;
+}
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+
+table td, table th, table tr {
+    border: 1px transparent;
+    margin-top: 5px;
+    padding: 5px;
+    width: auto;
+}
+
+table tr{
+    background-color: #f2f2f2;
+}
+
+table tr:hover {
+    background-color: azure;
+}
+
+table th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: left;
+    background-color: #95c895;
+    color: #000000;
+}
+input {
+    width: 150px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+select {
+    width: 150px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    align-self: auto;
+}
+label {
+    width: auto;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
